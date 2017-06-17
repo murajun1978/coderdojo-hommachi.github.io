@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "bundle exec jekyll server -w",
-    "setup": "bundle install"
+    "setup": "bundle install",
+    "create:post": "bundle exec thor jekyll:generator"
   }
 }

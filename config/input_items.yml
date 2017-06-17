@@ -1,0 +1,6 @@
+part: '何回目の開催ですか？: '
+event_page: 'イベントページのURLは？: '
+ninja: 'ニンジャの人数は？: '
+menter: 'メンターの人数は？: '
+venue_name: '会場名は？: '
+venue_page: '会場のURLは？: '
